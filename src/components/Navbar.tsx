@@ -92,7 +92,7 @@ export default function Navbar({ onOpenTerminal }: NavbarProps) {
             )}
 
             <a
-              href="/resume.pdf"
+              href="/Md-Golam-Muid-Talukder-Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-lg text-xs font-semibold text-white bg-gradient-to-r from-indigo-600 to-indigo-700 hover:from-indigo-500 hover:to-indigo-600 shadow-sm shadow-indigo-900/40 hover:shadow-indigo-500/25 transition-all"
@@ -148,7 +148,7 @@ export default function Navbar({ onOpenTerminal }: NavbarProps) {
             ))}
             <div className="pt-2 flex flex-col gap-2">
               <a
-                href="/resume.pdf"
+                href="/Md-Golam-Muid-Talukder-Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 w-full py-2.5 rounded-lg text-sm font-semibold text-white bg-indigo-600 hover:bg-indigo-500 transition-colors"

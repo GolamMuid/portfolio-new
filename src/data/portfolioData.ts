@@ -51,7 +51,7 @@ export const personalInfo = {
   status: "Open to Full-Time / Contract Roles in the UK & Globally",
   email: "golammuid@gmail.com",
   phone: "+44 07736 429047",
-  resumePath: "/resume.pdf",
+  resumePath: "/Md-Golam-Muid-Talukder-Resume.pdf",
   github: "https://github.com/GolamMuid",
   linkedin: "https://www.linkedin.com/in/golam-muid/",
   summary: `I am a skilled Full Stack Web Developer with 2.5 years of professional experience specializing in modern JavaScript/TypeScript ecosystems, MERN stack, and Next.js. I have a proven track record of architecting robust enterprise websites, modernizing legacy systems, and leading collaborative engineering teams. Currently pursuing an MSc in Computer Science at Ulster University in Belfast, UK, I combine deep academic foundations with hands-on production engineering to deliver scalable, user-centric software solutions.`,

@@ -11,7 +11,7 @@ A modern, high-performance portfolio website built with **Next.js 14**, **TypeSc
 - **Projects Showcase**: Deep-dive modals, live links, and GitHub repository links for production applications.
 - **Skills & Tech Stack**: Interactive technology stack breakdown across Frontend, Backend, Databases, and DevOps with live search.
 - **Academics & Credentials**: Ulster University (MSc in CS, Belfast, UK) and BRAC University (BSc in CSE).
-- **Direct Resume Access**: Download and preview `resume.pdf` with a single click.
+- **Direct Resume Access**: Download and preview `Md-Golam-Muid-Talukder-Resume.pdf` with a single click.
 - **Interactive Contact Form & Direct Actions**: One-click copy for email and phone, verified contact details, and simulated message dispatch.
 
 ## 🚀 Tech Stack

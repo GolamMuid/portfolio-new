@@ -75,7 +75,7 @@ export default function Hero() {
               </a>
 
               <a
-                href="/resume.pdf"
+                href="/Md-Golam-Muid-Talukder-Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 px-6 py-3 rounded-xl font-semibold text-sm text-slate-200 bg-slate-900/90 hover:bg-slate-800 border border-slate-700/80 hover:border-slate-600 transition-all hover:-translate-y-0.5"
