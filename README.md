@@ -22,7 +22,7 @@ A modern, high-performance portfolio website built with **Next.js 14**, **TypeSc
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **Animation & Transitions**: CSS transitions & Framer Motion ready
 
-## 🛠️ Getting Started
+<!-- ## 🛠️ Getting Started
 
 ### 1. Install dependencies
 ```bash
@@ -51,4 +51,4 @@ This portfolio is configured for zero-configuration deployment to **Vercel**, **
 4. Click **Deploy**!
 
 ---
-Developed for **Md Golam Muid Talukder** | Belfast, UK
+Developed for **Md Golam Muid Talukder** | Belfast, UK -->
